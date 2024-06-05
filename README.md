@@ -1,3 +1,3 @@
-<h1>HELLO EVERYONE!</h1>
-<h2>My name is Illia</h2>
+<h1 align="center" fill="red">HELLO EVERYONE!</h1>
+<h2 align="center">My name is Illia</h2>
 <p>I am a skilled web designer and HTML/CSS developer with a passion for creating visually stunning and highly functional websites. With a keen eye for design and a strong foundation in web development, I excel in translating creative concepts into engaging and user-friendly web experiences. My expertise in HTML and CSS allows me to build responsive, mobile-friendly sites that provide an optimal viewing experience across all devices. Committed to staying up-to-date with the latest industry trends and technologies, I strive to deliver high-quality, innovative solutions that meet client needs and exceed expectations.</p>
