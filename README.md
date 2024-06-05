@@ -1,4 +1,15 @@
-<h1 align="center">HELLO EVERYONE!</h1>
-<h2 align="center">My name is Illia</h2>
-<p>I am a skilled web designer and HTML/CSS developer with a passion for creating visually stunning and highly functional websites. With a keen eye for design and a strong foundation in web development, I excel in translating creative concepts into engaging and user-friendly web experiences. My expertise in HTML and CSS allows me to build responsive, mobile-friendly sites that provide an optimal viewing experience across all devices. Committed to staying up-to-date with the latest industry trends and technologies, I strive to deliver high-quality, innovative solutions that meet client needs and exceed expectations.</p>
+<h1 align="center">Hey, my name is Illia</h1>
+<h2 align="center">i'm Front-end developer and studying in computer school - "SHKM"</h2>
+<h3>I am a skilled web designer and HTML/CSS developer with a passion for creating visually stunning and highly functional websites.</h3>
+<ul>
+  <p>- My name is Illia👤</p>
+  <p>- I font of web-developing and i use<br> grid, flexible layouts🔧</p>
+  <p>- Created many sites and projects🖥️</p>
+  <p>- Started learning JavaScript☕️</p>
+  <p>You can contact me to "petrovilla550@gmail.com📩</p>
+  <p>Facts:<br>
+     -I like drawing🎨<br>
+     -I play Dota🦴</p>
+  
+</ul>
 <img src="https://1.bp.blogspot.com/-OgPeAWIGg5c/XcWacoLVEiI/AAAAAAAAAKo/FG40xLnECYUj5PLEMyNBokR4LPs-wfSCwCLcBGAsYHQ/w1200-h630-p-k-no-nu/movy-programuvannya.jpg" alt="photo">
